@@ -6,7 +6,7 @@ grpcio
 iptools
 jsoncomment
 mitogen
-protobuf==6.33.1
+protobuf==4.25.8
 psutil
 pyroute2==0.9.5
 scapy
